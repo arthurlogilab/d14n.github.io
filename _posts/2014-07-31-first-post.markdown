@@ -10,6 +10,7 @@ categories: general
 We had our [first meet-up](http://www.meetup.com/Paris-Meetup-pour-la-decentralisation-dInternet/events/193618842/) at the fabulous [Mozilla Paris](https://www.mozilla.org/en-US/contact/spaces/paris/) space. There were some 50 people in attendance throughout the day, participating in working groups on diverse topics, as well as hacking on a variety of interesting open source projects.
 
 Some of the groups opted to use [Framasoft](http://www.framasoft.net/) tools to track their discussions and progress:
+
 * [Wiki](http://decentralisation.framasoft.org/doku.php) `(fr)`
 * [Mailing list](http://framalistes.org/sympa/subscribe/decentralisation) `(fr)`
 
