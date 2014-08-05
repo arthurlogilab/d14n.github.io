@@ -1,1 +1,3 @@
 name: "d14n || Decentralisation of the Internet for Great Justice"
+gems:
+    - jemoji

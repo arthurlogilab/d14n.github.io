@@ -1,4 +1,4 @@
 _site
 .ruby-*
 .rbenv-*
-Gemfile*
+Gemfile.lock
